@@ -2,3 +2,5 @@
 Repository for testing my MSc Git Repository Tracker project.
 
 Testing repository for MSc dissertation.
+
+Added project description.
